@@ -14,9 +14,6 @@ export default function NotFound() {
           The page you are looking for is not available. Please return to the
           homepage to continue.
         </p>
-        <p className="mt-4 text-sm leading-relaxed text-[#4c433c] sm:text-base">
-          तपाईंले खोज्नुभएको पेज भेटिएन। कृपया गृहपृष्ठमा फर्कनुहोस्।
-        </p>
         <div className="mt-8 flex justify-center">
           <Link
             href="/"
