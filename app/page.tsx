@@ -91,6 +91,9 @@ export default function Home() {
             <a className="transition hover:text-black" href="#projects">
               Projects
             </a>
+            <a className="transition hover:text-black" href="/posts">
+              Journal
+            </a>
             <a className="transition hover:text-black" href="#services">
               Services
             </a>
